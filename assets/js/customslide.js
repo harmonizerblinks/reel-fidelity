@@ -1,8 +1,8 @@
   window.addEventListener('load', function(){
 
-    setInterval(function(){
-        window.location.reload(true)
-    }, 1800000)
+    // setInterval(function(){
+    //     window.location.reload(true)
+    // }, 1800000)
 
       const slideShow = document.querySelectorAll(".dynamic-slides");
       let videosItems = document.querySelectorAll(".dynamic-slide-video");
@@ -13,21 +13,7 @@
       interval = $("#slider_time").val(); // initial condition from a section varaible on the index page
       var run = setInterval(nextSlide , interval); // start setInterval as "run"
 
-    // function request() { 
-
-    //     console.log(interval); // firebug or chrome log
-    //     clearInterval(run); // stop the setInterval()
-
-    //      // dynamically change the run interval
-    //     if(interval>200 ){
-    //       interval = interval*.8;
-    //     }else{
-    //       interval = interval*1.2;
-    //     }
-
-    //     run = setInterval(request, interval); // start the setInterval()
-
-    // }
+    
 
         function nextSlide(){
             clearInterval(run); // stop the setInterval ()
@@ -40,12 +26,12 @@
             })
           
             if(slideShow[currentSlideCounter].getAttribute('timer') != null && slideShow[currentSlideCounter].getAttribute('src') != null){
-                interval = slideShow[currentSlideCounter].getAttribute('timer') /10 ;
+                interval = slideShow[currentSlideCounter].getAttribute('timer')  ;
                 // alert(interval)
             }else if(slideShow[currentSlideCounter].classList.contains('dynamic-slide-video')){
                 videoDuration = slideShow[currentSlideCounter].duration;
                 videoDuration = Math.floor(videoDuration);
-                videoDuration *= 100;
+                videoDuration *= 1000;
                 interval = videoDuration ;
                 // alert(interval)
             }else if(slideShow[currentSlideCounter].getAttribute('timer') == null ){
