@@ -1,0 +1,14 @@
+{
+	"slides": [],
+   "sounds": [],
+   "options": {
+        "show_rates": 0
+       ,"show_social_network_feeds": 0
+      ,"disable_interaction": false
+      ,"disable_sound": false
+   },
+   "styles": {
+       "url": "/reel-Fidelity/assets/css/rotate_screen_90deg.css"
+   }
+}
+

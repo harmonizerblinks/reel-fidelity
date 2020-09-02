@@ -1,0 +1,15 @@
+{
+	"slides": [],
+   "sounds": [
+   			{
+   			"main": "Kenny_G_What_a_Wonderful_World.ogg"
+   			, "alt": "Kenny_G_What_a_Wonderful_World.mp3"
+   		}
+   ],
+   "options": [{
+      "show_rates": 1
+     ,"show_social_network_feeds": 0
+      ,"disable_interaction": false
+      ,"disable_sound": 0
+   }]
+}

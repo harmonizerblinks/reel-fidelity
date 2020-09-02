@@ -1,0 +1,21 @@
+{
+	"slides": [
+    {"id":"h22", "title":"Forex Rates", "url": "slides/h22.html"}
+		,{"id":"h23", "title":"Interests Rates", "url": "slides/h23.html"}
+		,{"id":"h24", "title":"Fixed Deposit", "url": "slides/h24.html"}
+		,{"id":"h25", "title":"Daily Indicative Exchange Rates", "url": "slides/h25.html"}
+    ,{"id":"h26", "title":"Forex Rates", "url": "slides/h26.html"}
+	],
+   "sounds": [
+   			{
+   			"main": "Kenny_G_What_a_Wonderful_World.ogg"
+   			, "alt": "Kenny_G_What_a_Wonderful_World.mp3"
+   		}
+   ],
+   "options": {
+      "show_rates": 1
+     ,"show_social_network_feeds": 0
+      ,"disable_interaction": false
+      ,"disable_sound": 0
+   }
+}
