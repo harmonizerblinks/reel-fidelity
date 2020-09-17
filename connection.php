@@ -3,12 +3,13 @@
 // This scripts helps to connect to the old proskool for
 // database queries
 function _connect(){
-  $username = 'root1';
-  $password = 'linux';
+  $username = 'fingerti_Charles';
+  $password = 'ofadarice@88';
   //$db = 'sunnydale';
-  $conn = @mysqli_connect('localhost', $username, $password);
+  $conn = @mysqli_connect('fingertip.com.ng', $username, $password);
   if(!$conn){
-    throw new Exception('Unable to connect to database at localhost');
+    echo mysqli_connect_error($conn);
+    throw new Exception('Unable to connect to database at fingertip.com.ng');
   }
   return $conn;
 }
@@ -16,16 +17,22 @@ function _connect(){
 function executeQuery($sql){
   // This method is used for executing queries that does not return a result
   $conn = _connect();
-  $db = 'reel_mediaresource';
+  $db = 'fingerti_reel_mediaresource2';
   mysqli_select_db($conn, $db);
-  return mysqli_query($conn, $sql);
-
+  $result= mysqli_query($conn, $sql);
+  if($result == false){
+    echo "Error". mysqli_error($conn);
+    exit;
+  }
+  else{
+    return $result;
+  }
 }
 
 function queryData($sql){
   // This method can query a table or a view and return the
   // response as an array
-  $db = 'reel_mediaresource';
+  $db = 'fingerti_reel_mediaresource2';
   $conn = _connect();
   mysqli_select_db($conn, $db);
 
@@ -41,7 +48,7 @@ function queryData($sql){
 function queryData2($sql){
   // This method can query a table or a view and return the
   // response as an array
-  $db = 'reel_mediaresource';
+  $db = 'fingerti_reel_mediaresource2';
   $conn = _connect();
   mysqli_select_db($conn, $db);
 
@@ -56,7 +63,7 @@ function queryData2($sql){
 }
 function queryData3($sql){
   /** This method can query a table or a view and return the response as an array */
-  $db = 'reel_mediaresource';
+  $db = 'fingerti_reel_mediaresource2';
   $conn = _connect();
   mysqli_select_db($conn, $db);
 
@@ -73,7 +80,7 @@ function queryData3($sql){
 function queryData4($sql){
   // This method can query a table or a view and return the
   // associated response 
-  $db = 'reel_mediaresource';
+  $db = 'fingerti_reel_mediaresource2';
   $conn = _connect();
   mysqli_select_db($conn, $db);
 

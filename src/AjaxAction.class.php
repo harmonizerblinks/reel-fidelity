@@ -92,7 +92,7 @@ class AjaxAction {
       $view = $rdt->buildViewableFXRatesTable($data);
 $doc =<<< EOD
   <div style="background-color:#000;
-  z-index:1000;color:#fff;" class="dynamic-slides Stanbic-bank">
+  z-index:100;color:#fff;" class="dynamic-slides Stanbic-bank">
   <br/>
   <center><img src="assets/img/fidelity_logo.png" /></center>
 
@@ -122,7 +122,7 @@ EOD;
       $view = $rdt->buildInterestRatesTable($data);
 $doc =<<< EOD
   <div style="background-color:#000;
-  z-index:100000;color:#fff;" class="dynamic-slides Stanbic-bank">
+  z-index:100;color:#fff;" class="dynamic-slides Stanbic-bank">
   <br/>
   <center><img src="assets/img/fidelity_logo.png" /></center>
       	<div class="slide-bgs">
@@ -147,7 +147,7 @@ EOD;
       $view = $rdt->buildFixedDepositRatesTable($data);
 $doc =<<< EOD
   <div style="background-color:#000;
-  z-index:100000;color:#fff;" class="dynamic-slides Stanbic-bank">
+  z-index:100;color:#fff;" class="dynamic-slides Stanbic-bank">
   <br/>
   <center><img src="assets/img/fidelity_logo.png" /></center>
 
@@ -173,7 +173,7 @@ EOD;
       $view = $rdt->buildDailyIndicativeRatesTable($data);
     $doc =<<< EOD
     <div style="background-color:#000;
-    z-index:100000;color:#fff;" class="dynamic-slides Stanbic-bank">
+    z-index:100;color:#fff;" class="dynamic-slides Stanbic-bank">
     <br/>
     <center><img src="assets/img/fidelity_logo.png" /></center>
 

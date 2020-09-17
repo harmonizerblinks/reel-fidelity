@@ -1,9 +1,21 @@
 <?php 
-
+require_once "./connection.php";
 if(isset($_POST['timer-button'])){
-$timer = $_POST['timer'];
+  $timer = $_POST['timer'];
+
+  $que = "SELECT * from rates_schedule_time";
+  $result= queryData($que);
+  if(!empty($result)){
+    $q = sprintf('UPDATE rates_schedule_time  SET `time`="%s"' ,$timer);
+  }else{
+
+    $q = sprintf('INSERT INTO rates_schedule_time (`time`) VALUES("%s")' ,$timer);
+  }
+
+executeQuery($q);
+
 header("Location: ./resources.php");
-$_SESSION['time'] = $timer;
+
 }
 
 ?>
@@ -135,11 +147,16 @@ input{
         <div class="col-md-4">
           <button class="btn btn-warning"  name="timer-button" >Set slides duration</button>
         </div>
-        <?php if(isset($_SESSION['time'])){ ?>
+        <?php
+        $query = "SELECT * from rates_schedule_time";
+        $result= queryData($query);
+        if(!empty($result)){ ?>
         <div class="col-md-4">
+          <?php foreach($result as $re){ ?>
           <span class="btn" style="background:olive; color:#f8f6f4">
-           <?php echo "Rates  duration ". $_SESSION['time'] / 1000 ;?> Seconds
+            <?php echo $re['time']/1000?> Seconds
           </span>
+          <?php } ?>
         </div>
         <?php } ?>
       </div>

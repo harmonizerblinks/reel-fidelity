@@ -111,7 +111,7 @@ final class BuildUtil{
     $slidename = 'h'.$schedule['fileOrder'];
     $root = MediaUtils::getApplicationRoot();
     $timer = $schedule['timer'];
-
+    $id = $schedule['fileOrder'];
     $path =
     $root.DIRECTORY_SEPARATOR.'slides'.
     DIRECTORY_SEPARATOR.$slidename.'.html';
@@ -121,7 +121,7 @@ final class BuildUtil{
     
     <!--<div class="dynamic-slide dynamic-slide-2 video">
     	 <div class="slide-bg"> -->
-    		<video id="video" width="100%" height="100%" muted class="dynamic-slide-video dynamic-slides" timer="{$timer}">
+    		<video id="video{$id}" width="100%" height="100%" muted class="dynamic-slide-video dynamic-slides" timer="{$timer}" data-id="{$id}">
           <source src='{$uri}'  type='video/{$ext}'  />
           <embed src="{$uri}" type="application/x-shockwave-flash" width="100%" height="100%" allowscriptaccess ="always" allowfullscreen = 'true'>
           </embed>  
@@ -134,25 +134,25 @@ final class BuildUtil{
     	</div>
     </div> -->
     <script>
-    // var v = document.getElementById("video");
-    // var original_bg_color = $('body').css('background-color');
-    // v.addEventListener('click', function() {
-    // 	if (v.paused) {
-    // 		v.play();
-    // 	} else {
-    // 		v.pause();
-    // 	}
-    // })
-    // v.addEventListener('canplay', function(){
-    // 	pauseSlides();
-    // 	pauseSound();
-    // 	$('body').css('background-color', 'black');
-    // });
-    // v.addEventListener('ended',function(){
-    // 	nextSlide();
-    // 	resumeSound();
-    // 	$('body').css('background-color', original_bg_color);
-    // });
+    var v = document.getElementById("video{$id}");
+    var original_bg_color = $('body').css('background-color');
+    v.addEventListener('click', function() {
+    	if (v.paused) {
+    		v.play();
+    	} else {
+    		v.pause();
+    	}
+    })
+    v.addEventListener('canplay', function(){
+    	pauseSlides();
+    	pauseSound();
+    	$('body').css('background-color', 'black');
+    });
+    v.addEventListener('ended',function(){
+    	nextSlide();
+    	resumeSound();
+    	$('body').css('background-color', original_bg_color);
+    });
     </script>
 EOD;
 

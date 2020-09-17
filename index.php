@@ -4,6 +4,7 @@
     * Initialize Reel and set playlist
     *
     */
+    require_once __DIR__.'/connection.php';
     require_once __DIR__ . '/conf/AppConfig.class.php';
     require_once __DIR__ . '/src/Startup.class.php';
     require_once __DIR__ . '/src/Reel.class.php';
@@ -13,30 +14,27 @@
     $reel = new Reel();
     $reel->setPlaylist($pl);
     
-    $timer = 4000;
-    if(isset($_SESSION['time'])){
-        $timer = $_SESSION['time'];
-      }
-
-
-    function getContents(){
-
-        $data = file_get_contents('./playlists/default.json',true);
-        $data = json_decode($data,true);
-        $slideData = $data['slides'];
-        // print_r($slideData);
-        $slidesArray = [];
-        foreach($slideData as $slides){
-            $url= $slides['url'];
-            $slideFiles = file_get_contents($url);
-            
-           $slidesArray[] = $slideFiles;
+    $timer = 27000;
+    $query = "SELECT * from rates_schedule_time";
+    $result = queryData($query);
+    if(!empty($result)){
+        foreach($result as $re){
+            $timer = $re['time'];
         }
-      return   $slidesArray;
     }
+
+
+    //   $address = $_SERVER['REMOTE_ADDR'];
+    //   if($address == '127.0.0.1' OR $address == "::1"){
+
+          $jsonFiels = "./playlists/default.json";
+    //   }else{
+    //       $jsonFiels = "./playlists/$address";
+    //   }
+
     function getContents2(){
-        
-        $data = file_get_contents('./playlists/default.json',true);
+        global $jsonFiels;
+        $data = file_get_contents($jsonFiels,true);
         $data = json_decode($data,true);
         $slideData = $data['slides'];
         return $slideData;
@@ -78,11 +76,9 @@
         <script type="text/javascript" src="<?php echo Utils::getAssetURL('assets/js/libs/modernizr.min.js');?>"></script>
         
         <style>
-        #slides{
-            height: 100vh;
-        }
+      
         .dynamic-slides{
-          /* height: 100vh;  */
+          height: 98vh; 
           object-fit: cover;
           display: none;
           position: absolute;
@@ -91,7 +87,8 @@
         }
         .myModal{
             display:none;
-        }
+            /* transition: 1s ease-in-out   */
+        } 
         #simpleModal{
             position: fixed;
             z-index: 1000000;
@@ -100,14 +97,25 @@
             height: 100%;
             width: 100%;
             overflow: auto;
-            background: rgba(0, 0, 0, 0.5)
+            background: rgba(0, 0, 0, 0.9)
         }
         .modal-elements{
             background: #fff;
             margin: 10% auto;
-            padding: 10%;
+            padding: 40px 40px;
             width: 90%;
             box-shadow: 0 5px rgba(0, 0, 0, 0.2),7px 20px rgba(0, 0, 0, 0.17);
+            min-height: 40vh;
+        }
+        .click-able-slide{
+            margin-bottom: 12px;
+            cursor: pointer;
+
+        }
+        .fidelity-bank-logo{
+            position: absolute;
+            bottom: 280px;
+            right: 70px;
         }
         </style>
         
@@ -116,13 +124,7 @@
         <input type="hidden" id="slider_time" value="<?php echo $timer ?>" >
 
         
-        <div id="simpleModal" class="myModal">
-            <div class="modal-elements">
-                <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus amet sit accusantium cumque rem dolorum libero officiis, molestias quod nostrum animi sint iste et maiores consectetur. Nisi eos cumque vel.
-                </p>
-            </div>
-        </div>
+
         <div class="wrapper" id="wrapper">
             <div id="container">
                 <div id="content padding-bottom-0px">
@@ -140,9 +142,9 @@
 
 
                 <!-- MAIN SLIDESHOW -->
-                <div id="home-slider-wrap">
+                <div id="home-slider-wrap" >
                     <div id="home-slider" class="slider">
-                        <div style="display:none;" class="slider-nav-wrap">
+                        <div style="z-index:10000;" class="slider-nav-wrap">
                             <div style="background: #fc7c1f;" class="slider-nav container">
                                 <div class="row" ><button class="min-max btn"><i class="icon icon-plus-sign"></i>  </button></div>
                                 <!-- <div class="row">
@@ -159,23 +161,7 @@
                                     </div>
                                 </div> -->
                             </div>
-                        </div>
-
-                <div id="slides">
-                    <?php 
-                    $slidesArray = getContents2();
-                   
-                    foreach($slidesArray as $item){
-                        $url= $item['url'];
-                        $slides = file_get_contents($url);
-                        echo $slides;
-                    ?>
-                    <!--  -->
-                    <?php
-                    }
-                    ?>
-                </div>
-                    
+                        </div>                    
                         <!-- SLIDESHOW OPTIONS -->
                         <!-- <div class="slides cycle-slideshow" id="slides"
                         data-cycle-pause-on-hover="false"
@@ -188,9 +174,17 @@
                         > -->
                         <!-- END SLIDESHOW OPTIONS -->
 
+                <?php 
+                    $slidesArray = getContents2();
+                   
+                    foreach($slidesArray as $item){
+                        $url= $item['url'];
+                        $slides = file_get_contents($url);
+                        echo $slides;
+                      
+                    }
+                    ?>
                         <?php echo $reel->renderSlides(); ?>
-
-                    <!-- </div> -->
                 </div>
             </div>
             <!-- END MAIN SLIDESHOW -->
@@ -227,7 +221,11 @@
     <!-- END FOOTER -->
 
     <div class="menu bg-danger p-5" id="menu-clickable" style="height:100%;" >
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad aliquid magni ratione, placeat quos repellat est, error pariatur accusantium voluptate dolore ex omnis mollitia exercitationem debitis, quae nostrum qui saepe.
+        <ul>
+            <?php
+            
+            ?>
+        </ul>
     </div>
 
 </div><!-- #wrapper -->
@@ -278,35 +276,34 @@ $(document).ready(function() {
 <script type="text/javascript" src="<?php echo Utils::getAssetURL('assets/js/reel.js');?>"></script>
 <script type="text/javascript" src="<?php echo Utils::getAssetURL('assets/js/customslide.js');?>"></script>
 <!-- END REEL FRONTEND INITIALIZATION -->
-
 </body>
 </html>
 <!-- Modal -->
-<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" style="background:red; width:100vw !important;">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body" style="width:100vw !important;" >
-      <?php 
-        $arrays = getContents2();
-        ?>
-        <ul>
-            <?php foreach($arrays as $array) {
+<div id="simpleModal" class="myModal">
+    <div class="modal-elements">
+        <div class="row justify-content-center">
+            <ul>
+        <?php 
+            $slidesArray = getContents2();
                 
-                ?>
-                <li id="<?php echo $array['id'] ?>" ><?php echo $array['title'] ?></li>
-            <?php  }?>
+            foreach($slidesArray as $item){
+                $title = $item['title'];
+                $id = $item['url'];
+            ?>
+            <div  class="col-md-3 click-able-slide" data-id="<?php echo $id ?>" >
+                <li>
+                    <?php echo $title ?>
+                </li>
+            </div>
+        <?php
+        }
+        ?>
         </ul>
+        </div>
 
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
-      </div>
+        <div class="fidelity-bank-logo">
+            <img src="assets/img/coy-logo.png" />
+        </div>
+
     </div>
-  </div>
 </div>

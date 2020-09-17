@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Aug 28, 2020 at 09:46 PM
+-- Generation Time: Sep 06, 2020 at 08:54 AM
 -- Server version: 10.4.11-MariaDB
 -- PHP Version: 7.4.3
 
@@ -17,10 +17,6 @@ SET time_zone = "+00:00";
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
 /*!40101 SET NAMES utf8mb4 */;
-DROP DATABASE IF EXISTS `reel_mediaresource`;
-
-CREATE DATABASE IF NOT EXISTS `reel_mediaresource`;
-USE `reel_mediaresource`;
 
 --
 -- Database: `reel_mediaresource`
@@ -32,12 +28,28 @@ USE `reel_mediaresource`;
 -- Table structure for table `admin`
 --
 
+-- DROP DATABASE IF EXISTS `reel_mediaresource`;
+
+-- CREATE DATABASE IF NOT EXISTS `reel_mediaresource`;
+-- USE `reel_mediaresource`;
+
 CREATE TABLE `admin` (
   `admin_id` int(11) UNSIGNED NOT NULL,
   `admin_name` varchar(64) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
   `email` varchar(100) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
   `password` varchar(100) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
   `raw_password` varchar(100) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `rates_schedule_time`
+--
+
+CREATE TABLE `rates_schedule_time` (
+  `id` int(11) UNSIGNED NOT NULL,
+  `time` varchar(64) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 -- --------------------------------------------------------
@@ -109,6 +121,12 @@ ALTER TABLE `admin`
   ADD PRIMARY KEY (`admin_id`);
 
 --
+-- Indexes for table `rates_schedule_time`
+--
+ALTER TABLE `rates_schedule_time`
+  ADD PRIMARY KEY (`id`);
+
+--
 -- Indexes for table `resource_media_files`
 --
 ALTER TABLE `resource_media_files`
@@ -145,6 +163,12 @@ ALTER TABLE `supper_admin`
 --
 ALTER TABLE `admin`
   MODIFY `admin_id` int(11) UNSIGNED NOT NULL AUTO_INCREMENT;
+
+--
+-- AUTO_INCREMENT for table `rates_schedule_time`
+--
+ALTER TABLE `rates_schedule_time`
+  MODIFY `id` int(11) UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `resource_media_files`

@@ -78,9 +78,6 @@ if($_SERVER['REQUEST_METHOD'] === 'POST'){
     
   executeQuery($q);
 
-
-
-
     // rebuild the schedules for display
     try{
       BuildUtil::rebuildSchedules($target_ip_address, $address);

@@ -65,46 +65,46 @@
 
                     <?php include 'common/toc.php'; ?>
 
-                <!-- MAIN SLIDESHOW -->
-                <div id="home-slider-wrap">
-                    <div id="home-slider" class="slider">                            
-                        <div class="slider-nav-wrap">
-                            <div style="background: #000;" class="slider-nav container">
-                                <div class="row" ><button class="min-max btn"><i class="icon icon-plus-sign"></i>  </button></div>
-                                <div class="row">
-                                    <button class="slider-menu btn"><i class="icon icon-folder-open"></i> <span>MENU</span></button>
-                                </div> 
-                                <div class="row">
-                                    <div class="btn-group btn-group-justified">
-                                        <button class="prev btn" id='prev'><i class="icon icon-backward"></i></button>     
-                                        <button class="prev btn" id='pauseplay'><i class="icon icon-pause"></i></button>
-                                        <button class="next btn" id="next"><i class="icon icon-forward"></i></button> 
-                                        <button class="volume btn" id="volume"><i class="icon icon-volume-up"></i></button> 
-                                        <button class="fullscreen btn"><i class="icon icon-resize-full"></i></button>
-                                        <button class="refresh btn"><i class="icon icon-refresh"></i></button>
-                                    </div>
-                                </div>                                   
-                            </div>                            
-                        </div>
+                    <!-- MAIN SLIDESHOW -->
+                    <div id="home-slider-wrap">
+                        <div id="home-slider" class="slider">                            
+                            <div class="slider-nav-wrap">
+                                <div style="background: #000;" class="slider-nav container">
+                                    <div class="row" ><button class="min-max btn"><i class="icon icon-plus-sign"></i>  </button></div>
+                                    <div class="row">
+                                        <button class="slider-menu btn"><i class="icon icon-folder-open"></i> <span>MENU</span></button>
+                                    </div> 
+                                    <div class="row">
+                                        <div class="btn-group btn-group-justified">
+                                            <button class="prev btn" id='prev'><i class="icon icon-backward"></i></button>     
+                                            <button class="prev btn" id='pauseplay'><i class="icon icon-pause"></i></button>
+                                            <button class="next btn" id="next"><i class="icon icon-forward"></i></button> 
+                                            <button class="volume btn" id="volume"><i class="icon icon-volume-up"></i></button> 
+                                            <button class="fullscreen btn"><i class="icon icon-resize-full"></i></button>
+                                            <button class="refresh btn"><i class="icon icon-refresh"></i></button>
+                                        </div>
+                                    </div>                                   
+                                </div>                            
+                            </div>
 
-                        <!-- SLIDESHOW OPTIONS -->
-                        <div class="slides cycle-slideshow" id="slides"
-                        data-cycle-pause-on-hover="false"
-                        data-cycle-timeout=10000
-                        data-cycle-fx="fadeout"
-                        data-cycle-swipe-fx="scrollHorz"
-                        data-cycle-prev="#prev"
-                        data-cycle-next="#next"
-                        data-cycle-slides="> div"
-                        >
-                        <!-- END SLIDESHOW OPTIONS -->
+                            <!-- SLIDESHOW OPTIONS -->
+                            <div class="slides cycle-slideshow" id="slides"
+                            data-cycle-pause-on-hover="false"
+                            data-cycle-timeout=10000
+                            data-cycle-fx="fadeout"
+                            data-cycle-swipe-fx="scrollHorz"
+                            data-cycle-prev="#prev"
+                            data-cycle-next="#next"
+                            data-cycle-slides="> div"
+                            >
+                            <!-- END SLIDESHOW OPTIONS -->
 
-                        <?php echo $reel->renderSlides(); ?>
+                            <?php echo $reel->renderSlides(); ?>
 
-                    </div> 
+                        </div> 
+                    </div>
                 </div>
-            </div>
-            <!-- END MAIN SLIDESHOW -->
+                <!-- END MAIN SLIDESHOW -->
             
             <?php include  'common/contact-form.php'; ?>
                         

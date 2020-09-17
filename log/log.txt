@@ -21573,4 +21573,5489 @@ Time: 2015-04-21 15:04:00
 User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
 URL: /reel-fidelityupdated5/ 
 
+Time: 2020-09-02 15:09:35 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-02 16:09:20 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-02 16:09:47 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-02 16:09:33 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-02 16:09:59 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-02 16:09:35 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-02 16:09:59 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-02 16:09:01 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-02 16:09:24 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-02 16:09:12 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-02 16:09:58 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-02 16:09:00 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 06:09:26 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 08:09:41 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 08:09:54 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 08:09:33 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 08:09:27 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 08:09:59 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 08:09:04 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 08:09:49 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 08:09:36 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 08:09:58 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 08:09:39 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 08:09:48 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 08:09:54 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 08:09:44 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 08:09:33 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 08:09:14 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 08:09:36 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:55 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:30 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:40 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:10 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:55 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:23 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:49 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:30 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:53 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:47 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:22 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:40 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:43 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:56 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:33 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:17 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:29 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:56 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:12 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:12 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:21 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:24 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:24 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:24 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:07 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:05 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:14 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:14 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:30 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:12 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:15 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:21 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:36 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:42 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:46 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:50 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:54 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:29 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:36 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:11 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:42 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:47 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:54 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:57 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:40 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:07 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:11 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:19 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:28 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:34 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:16 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:17 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:21 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:45 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:16 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:56 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:24 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:17 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:13 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:49 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:52 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:20 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:15 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:01 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:22 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:42 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:50 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:32 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:22 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:42 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:15 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:56 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 09:09:06 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 10:09:16 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 10:09:19 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 10:09:57 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 10:09:09 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 10:09:45 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 10:09:17 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 10:09:48 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 10:09:53 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 10:09:13 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 10:09:03 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 10:09:20 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 10:09:04 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 10:09:37 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 10:09:27 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 10:09:51 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 10:09:22 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 10:09:55 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 10:09:05 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 10:09:43 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 10:09:50 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:40 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:44 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:04 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:04 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:58 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:36 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:15 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:09 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:31 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:51 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:45 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:31 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:02 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:02 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:59 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:37 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:39 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:19 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:58 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:21 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:49 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:32 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:40 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:21 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:12 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:46 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:51 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:55 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:21 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:08 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:40 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:33 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:18 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:35 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:40 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:10 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:05 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 11:09:10 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:15 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:51 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:24 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:04 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:21 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:27 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:36 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:39 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:00 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:24 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:27 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:31 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:52 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:58 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:19 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:40 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:07 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:32 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:07 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:36 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:48 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:05 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:39 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:22 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:33 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:10 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:02 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:10 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:22 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:48 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:15 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:23 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:13 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:38 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:41 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:02 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:26 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:43 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:39 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:01 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:17 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:11 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:41 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:14 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:50 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:52 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:23 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 12:09:16 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 13:09:20 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 13:09:32 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 13:09:49 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 13:09:42 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 13:09:09 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 13:09:35 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 13:09:52 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 13:09:56 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 13:09:29 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 13:09:01 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 13:09:05 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 13:09:59 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 13:09:15 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 13:09:06 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 13:09:15 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 13:09:57 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 13:09:41 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 13:09:18 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 13:09:15 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 13:09:44 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 13:09:25 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 13:09:29 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 13:09:14 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 13:09:04 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 13:09:31 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 13:09:51 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 13:09:21 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 13:09:50 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 13:09:01 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 13:09:19 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 13:09:35 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 13:09:06 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 13:09:24 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 13:09:44 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 13:09:42 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 13:09:02 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 13:09:39 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:14 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:19 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:39 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:43 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:34 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:39 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:46 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:28 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:45 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:57 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:18 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:25 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:54 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:38 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:00 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:37 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:24 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:27 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:48 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:46 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:58 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:37 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:35 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:37 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:00 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:52 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:24 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:45 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:08 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:29 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:29 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:05 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:29 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:15 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:37 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:58 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:27 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:29 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:19 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:56 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:27 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:38 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:08 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:20 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:34 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:30 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:06 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:52 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:44 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 14:09:15 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:02 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:24 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:09 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:45 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:53 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:12 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:19 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:51 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:21 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:18 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:45 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:46 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:20 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:48 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:47 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:33 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:30 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:18 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:38 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:24 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:06 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:26 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:48 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:42 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:53 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:27 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:03 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:48 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:53 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:10 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:19 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:01 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:26 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:04 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:34 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:22 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:58 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:58 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:03 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:15 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:56 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:05 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:21 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:44 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:58 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:28 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 15:09:34 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:20 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:03 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:24 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:30 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:55 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:57 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:00 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:22 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:34 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:10 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:12 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:09 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:04 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:19 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:29 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:06 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:06 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:42 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:19 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:56 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:50 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:32 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:03 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:16 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:30 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:00 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:43 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:58 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:49 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:56 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:47 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:15 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:35 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:47 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:12 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:45 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:53 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:24 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:42 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:02 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:35 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:02 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:13 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:49 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:03 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:16 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:35 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 16:09:02 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 17:09:16 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 17:09:45 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 17:09:42 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 17:09:24 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 17:09:25 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 17:09:25 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 17:09:34 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 17:09:01 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 17:09:43 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-03 17:09:08 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 06:09:34 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 06:09:59 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 06:09:50 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 06:09:20 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 06:09:46 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 06:09:32 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 06:09:05 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 06:09:39 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 06:09:19 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 06:09:11 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:23 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:48 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:20 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:24 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:48 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:28 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:32 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:00 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:13 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:05 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:22 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:18 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:46 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:00 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:45 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:31 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:22 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:04 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:55 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:43 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:28 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:06 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:25 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:18 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:39 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:28 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:37 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:44 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:22 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:58 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:11 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:26 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:29 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:47 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:30 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:41 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:09 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:13 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:29 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 08:09:59 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:33 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:15 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:10 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:13 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:16 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:32 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:35 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:52 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:00 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:06 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:11 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:14 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:19 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:01 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:03 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:10 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:22 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:25 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:59 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:21 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:24 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:32 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:49 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:37 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:48 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:32 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:32 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:36 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:47 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:50 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:43 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:46 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:49 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:51 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:29 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:32 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:34 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:41 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:49 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:47 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:00 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:09 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:42 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:55 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:04 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:01 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:28 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:13 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:28 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:38 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:49 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:43 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:15 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:41 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:18 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:03 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:13 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:00 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:10 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:25 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:24 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:10 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:00 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 09:09:55 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:07 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:14 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:19 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:13 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:22 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:33 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:59 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:01 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:04 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:06 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:10 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:12 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:16 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:58 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:16 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:38 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:27 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:19 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:22 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:24 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:47 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:50 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:24 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:37 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:35 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:47 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:05 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:24 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:53 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:33 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:36 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:40 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:50 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:02 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:59 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:02 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:30 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:44 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:41 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:51 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:49 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:27 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:11 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:18 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:29 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:08 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:20 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:37 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:48 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:34 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:18 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:33 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:01 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:11 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:53 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:57 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:46 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:10 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:22 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:33 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:00 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:50 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:42 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:35 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:15 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 10:09:59 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 11:09:05 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 11:09:32 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 11:09:19 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 11:09:09 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 11:09:48 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 11:09:42 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 11:09:34 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 11:09:57 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 11:09:30 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 11:09:51 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 11:09:36 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 11:09:34 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 11:09:24 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 11:09:40 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 11:09:04 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 11:09:27 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 11:09:33 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 11:09:28 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 11:09:56 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 11:09:30 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 11:09:50 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 11:09:21 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 11:09:33 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 11:09:37 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 11:09:08 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 11:09:21 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 11:09:05 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 12:09:09 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 12:09:32 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 12:09:11 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 12:09:26 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 12:09:46 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 12:09:14 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 12:09:43 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 12:09:18 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 12:09:22 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 12:09:13 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 12:09:52 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 12:09:05 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 12:09:48 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 12:09:27 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 12:09:04 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 12:09:34 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 12:09:55 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 12:09:54 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 12:09:28 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 13:09:39 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 13:09:11 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 13:09:03 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 13:09:16 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 13:09:03 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 13:09:37 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 13:09:01 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 13:09:04 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 13:09:07 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 13:09:09 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 13:09:12 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 13:09:21 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 13:09:16 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 13:09:47 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 13:09:05 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 13:09:41 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 13:09:57 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 13:09:22 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 13:09:24 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 13:09:58 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 13:09:01 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 13:09:04 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 13:09:45 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 13:09:42 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:25 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:30 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:01 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:30 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:03 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:52 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:23 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:32 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:21 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:39 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:03 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:03 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:03 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:22 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:16 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:32 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:57 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:17 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:46 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:29 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:25 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:41 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:35 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:40 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:17 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:23 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:10 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:16 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:41 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:44 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:57 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:28 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:31 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:34 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:40 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:02 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:32 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:59 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:25 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:48 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:42 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:08 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:45 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:42 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:03 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:27 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:31 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:35 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:57 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:18 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:23 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:25 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:32 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:58 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:27 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:39 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 14:09:54 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 15:09:27 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 15:09:07 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 15:09:16 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 15:09:52 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 15:09:05 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 15:09:19 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 15:09:01 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 15:09:28 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 15:09:15 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 15:09:21 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 15:09:53 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 15:09:45 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 15:09:27 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 15:09:46 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 15:09:30 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 15:09:32 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 15:09:01 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 15:09:00 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 15:09:07 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 15:09:59 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 15:09:32 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 15:09:37 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 15:09:32 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 15:09:43 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 15:09:39 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 16:09:34 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 16:09:43 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 16:09:26 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 16:09:47 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 16:09:05 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 16:09:25 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 16:09:47 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 16:09:52 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 16:09:21 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 16:09:19 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 16:09:16 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 16:09:44 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 16:09:07 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 16:09:56 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 16:09:03 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 16:09:19 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 16:09:29 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 16:09:35 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 16:09:13 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 16:09:32 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 16:09:12 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 16:09:22 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 16:09:34 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 16:09:25 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-04 16:09:34 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 22:09:02 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 22:09:08 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 22:09:48 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 22:09:33 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 22:09:10 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 22:09:05 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 22:09:10 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 22:09:51 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 22:09:44 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 22:09:36 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 22:09:21 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 22:09:10 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 22:09:26 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 22:09:14 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 22:09:54 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 22:09:45 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 22:09:59 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 22:09:05 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 22:09:32 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 22:09:56 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 22:09:29 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 22:09:20 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 22:09:37 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 23:09:22 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 23:09:25 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 23:09:57 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 23:09:02 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 23:09:43 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 23:09:52 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 23:09:48 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 23:09:25 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 23:09:37 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 23:09:38 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 23:09:18 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 23:09:21 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 23:09:44 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 23:09:30 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 23:09:43 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 23:09:28 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 23:09:31 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 23:09:54 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 23:09:13 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 23:09:23 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 23:09:22 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 23:09:52 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 23:09:16 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 23:09:19 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 23:09:45 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 23:09:47 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 23:09:16 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 23:09:00 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 23:09:10 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 23:09:05 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 23:09:33 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-05 23:09:46 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 00:09:29 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 00:09:34 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 00:09:41 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 00:09:50 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 00:09:53 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 00:09:31 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 00:09:18 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 00:09:22 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 00:09:31 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 00:09:24 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 00:09:46 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 00:09:22 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 00:09:13 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 00:09:29 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 00:09:40 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 00:09:36 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 00:09:22 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 00:09:17 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 00:09:46 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 00:09:55 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 00:09:36 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 00:09:59 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 00:09:14 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 00:09:35 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 00:09:14 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 01:09:48 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 01:09:54 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 01:09:53 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 01:09:19 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 01:09:52 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 01:09:42 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 01:09:56 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 01:09:53 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 01:09:46 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 01:09:39 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 01:09:02 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 01:09:24 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 01:09:11 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 01:09:43 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 01:09:39 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 01:09:02 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 01:09:42 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 01:09:08 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 01:09:59 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 01:09:27 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 01:09:54 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 01:09:37 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 01:09:35 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 01:09:43 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 01:09:31 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 01:09:43 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 01:09:44 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 01:09:29 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 01:09:52 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 01:09:59 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:14 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:19 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:00 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:19 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:58 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:35 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:17 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:29 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:59 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:07 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:35 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:01 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:32 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:14 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:12 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:08 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:44 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:36 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:14 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:39 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:17 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:14 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:41 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:48 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:31 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:13 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:53 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:17 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:07 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:30 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:41 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:08 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:19 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:04 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:58 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:51 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:34 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:42 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:30 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:52 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:54 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:25 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:40 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:59 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:25 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:16 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:31 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:05 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 02:09:38 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 03:09:32 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 03:09:00 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 03:09:21 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 03:09:12 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 03:09:26 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 03:09:07 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 03:09:34 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 03:09:18 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36 Edg/81.0.416.62 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 06:09:22 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 06:09:47 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36 Edg/81.0.416.62 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 06:09:28 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 06:09:09 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 06:09:44 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 06:09:29 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 07:09:18 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 07:09:13 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 07:09:45 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 07:09:26 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 07:09:57 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 07:09:41 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 07:09:31 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 07:09:15 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 07:09:13 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 08:09:40 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 08:09:35 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 08:09:12 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 08:09:01 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 08:09:46 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 08:09:52 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 08:09:58 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 08:09:04 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 08:09:14 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 08:09:22 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 08:09:30 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 08:09:37 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 08:09:44 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 08:09:58 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 08:09:02 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 08:09:58 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 08:09:55 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 08:09:58 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 08:09:39 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 08:09:20 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 08:09:01 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 08:09:42 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 08:09:23 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 08:09:05 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 08:09:50 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 08:09:32 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 08:09:18 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 08:09:59 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 08:09:41 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 08:09:30 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 09:09:33 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 10:09:36 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 11:09:14 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 23:09:06 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 23:09:55 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 23:09:04 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 23:09:15 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 23:09:10 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 23:09:25 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 23:09:18 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 23:09:01 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 23:09:43 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-06 23:09:32 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-07 00:09:04 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-07 00:09:54 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-07 00:09:54 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-07 00:09:02 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-07 00:09:54 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-07 00:09:27 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-07 00:09:38 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-07 00:09:30 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-07 00:09:25 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-07 00:09:29 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-07 00:09:44 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-07 00:09:52 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-07 00:09:01 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-07 00:09:44 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-07 00:09:37 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-07 01:09:39 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-07 08:09:31 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-07 08:09:04 
+IP: 127.0.0.1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 Edg/85.0.564.44 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-07 10:09:58 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-07 11:09:30 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-07 12:09:12 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-07 12:09:07 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-07 13:09:13 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-07 14:09:16 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-07 15:09:22 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-07 15:09:35 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-07 16:09:44 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-08 08:09:07 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-08 08:09:37 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-08 09:09:25 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-08 10:09:27 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-11 09:09:18 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-11 09:09:46 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-11 09:09:49 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-11 10:09:50 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-11 11:09:52 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-16 10:09:37 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-16 10:09:57 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdated5/ 
+
+Time: 2020-09-16 11:09:43 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdatedtest/ 
+
+Time: 2020-09-16 11:09:44 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdatedtest/ 
+
+Time: 2020-09-16 11:09:59 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdatedtest/ 
+
+Time: 2020-09-16 11:09:28 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdatedtest/ 
+
+Time: 2020-09-16 11:09:40 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdatedtest/ 
+
+Time: 2020-09-16 11:09:00 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdatedtest/ 
+
+Time: 2020-09-16 11:09:52 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdatedtest/ 
+
+Time: 2020-09-16 11:09:29 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdatedtest/ 
+
+Time: 2020-09-16 12:09:27 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdatedtest/ 
+
+Time: 2020-09-16 12:09:30 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdatedtest/ 
+
+Time: 2020-09-16 12:09:42 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdatedtest/ 
+
+Time: 2020-09-16 12:09:05 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdatedtest/ 
+
+Time: 2020-09-16 12:09:20 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelityupdatedtest/ 
+
+Time: 2020-09-16 13:09:22 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Mobile Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-16 13:09:47 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Mobile Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-16 13:09:09 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-16 14:09:17 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-16 14:09:05 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-16 14:09:57 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-16 14:09:02 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-16 15:09:31 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Mobile Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-16 16:09:43 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Mobile Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-16 16:09:46 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Mobile Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-16 17:09:50 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-16 17:09:10 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-16 17:09:32 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-16 17:09:38 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Mobile Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-16 18:09:42 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Mobile Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-16 19:09:26 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Mobile Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-16 19:09:35 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Mobile Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-16 20:09:54 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Mobile Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-16 21:09:03 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Mobile Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-16 22:09:11 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Mobile Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-16 22:09:28 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Mobile Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-16 23:09:37 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Mobile Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 00:09:43 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Mobile Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 09:09:19 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Mobile Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 09:09:08 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Mobile Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 09:09:21 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Mobile Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 09:09:51 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Mobile Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 09:09:14 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 09:09:37 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Mobile Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 09:09:17 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Mobile Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 09:09:41 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Mobile Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 09:09:13 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Mobile Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 09:09:48 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Mobile Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 10:09:53 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Mobile Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 12:09:45 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 12:09:35 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 12:09:15 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; Android 8.1.0; itel S33) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 12:09:02 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 12:09:05 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 12:09:55 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 13:09:10 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 13:09:20 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; Android 8.1.0; itel S33) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 13:09:47 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 13:09:39 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 13:09:58 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 13:09:04 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 13:09:43 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 14:09:29 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 14:09:08 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 14:09:08 
+IP: ::1 
+User Agent: WhatsApp/2.20.92 i 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 14:09:32 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; Android 8.1.0; X_TIGI_Photo P16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.101 Mobile Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 14:09:26 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; Android 8.1.0; X_TIGI_Photo P16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.101 Mobile Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 14:09:04 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 14:09:14 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 14:09:51 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; U; Android 8.1.0; itel S33 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.110 Mobile Safari/537.36 OPR/47.2.2254.147957 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 14:09:04 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; U; Android 8.1.0; itel S33 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.110 Mobile Safari/537.36 OPR/47.2.2254.147957 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 14:09:11 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 14:09:18 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; Android 8.1.0; X_TIGI_Photo P16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.101 Mobile Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 14:09:35 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-A205F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/12.1 Chrome/79.0.3945.136 Mobile Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 15:09:16 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 15:09:19 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; Android 8.1.0; X_TIGI_Photo P16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.101 Mobile Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 15:09:29 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; Android 8.1.0; X_TIGI_Photo P16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.101 Mobile Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 15:09:04 
+IP: ::1 
+User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.101 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 15:09:26 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
 

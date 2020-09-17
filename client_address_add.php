@@ -4,7 +4,7 @@ require_once __DIR__ . '/src/Startup.class.php';
 require_once __DIR__.'/startup.php';
 require_once __DIR__.'/MediaUtils.php';
 
-if(empty($_SESSION['admin_id']) && empty($_SESSION['sppper_admin_id'])){
+if(empty($_SESSION['admin_id']) && empty($_SESSION['supper_admin_id'])){
 
   header('Location: ./admin/index.php');
 }

@@ -125,6 +125,17 @@ if($_SERVER['REQUEST_METHOD'] === 'POST'){
       // has this address been added before now
       $name = trim($name);
       $email = trim($email);
+
+      $q=
+    sprintf(
+      'SELECT * FROM supper_admin WHERE email = "%s"'
+      , $email);
+
+    $email2 = queryData($q);
+    if($email2 !=null){
+      
+       $error= 'User  with '.$email.' already exist in the system';
+    }
   
       $passwordHash = password_hash($password,PASSWORD_DEFAULT);
       $q1 =
@@ -133,7 +144,7 @@ if($_SERVER['REQUEST_METHOD'] === 'POST'){
         , $email);
   
       $adminRecord = queryData3($q1);
-      if(count($adminRecord) > 4){
+      if(count($adminRecord) == 4){
         
          $error= 'The maximum number of super admin users allowed have been reached';
       }
