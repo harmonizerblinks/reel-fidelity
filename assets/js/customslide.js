@@ -61,10 +61,10 @@ window.addEventListener('load', function(){
             for(i=0;i<videosItems.length;i++){
                 if(videosItems[i].currentSrc == slideShow[currentSlideCounter].currentSrc){
                     videosItems[i].setAttribute('autoplay',true);
-                    // videosItems[i].removeAttribute('muted');
                     videosItems[i].play();
-                    videosItems[i].muted =false;
+                    videosItems[i].muted = false;
                     // videosItems[i].play();
+                    videosItems[i].removeAttribute('muted');
                 }else if(videosItems[i] != slideShow[currentSlideCounter]){
                     videosItems[i].currentTime =0;
                     videosItems[i].pause();

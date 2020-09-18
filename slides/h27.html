@@ -1,0 +1,36 @@
+    
+    <!--<div class="dynamic-slide dynamic-slide-2 video">
+    	 <div class="slide-bg"> -->
+    		<video id="video27" width="100%" height="100%" muted class="dynamic-slide-video dynamic-slides" timer="340000" data-id="27">
+          <source src='mediastore/qp/7g3f3bjhea6dd7k5pbjppz6ixs6762klustsha.mp4'  type='video/mp4'  />
+          <embed src="mediastore/qp/7g3f3bjhea6dd7k5pbjppz6ixs6762klustsha.mp4" type="application/x-shockwave-flash" width="100%" height="100%" allowscriptaccess ="always" allowfullscreen = 'true'>
+          </embed>  
+          <p>
+            Sorry your browser does not support the video format
+          </p>
+    		</video>
+    	<!-- </div>
+    	<div class="container">
+    	</div>
+    </div> -->
+    <script>
+      var v = document.getElementById("video27");
+      var original_bg_color = $('body').css('background-color');
+      v.addEventListener('click', function() {
+        if (v.paused) {
+          v.play();
+        } else {
+          v.pause();
+        }
+      })
+      v.addEventListener('canplay', function(){
+        pauseSlides();
+        pauseSound();
+        $('body').css('background-color', 'black');
+      });
+      v.addEventListener('ended',function(){
+        nextSlide();
+        resumeSound();
+        $('body').css('background-color', original_bg_color);
+      });
+    </script>

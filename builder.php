@@ -134,25 +134,25 @@ final class BuildUtil{
     	</div>
     </div> -->
     <script>
-    var v = document.getElementById("video{$id}");
-    var original_bg_color = $('body').css('background-color');
-    v.addEventListener('click', function() {
-    	if (v.paused) {
-    		v.play();
-    	} else {
-    		v.pause();
-    	}
-    })
-    v.addEventListener('canplay', function(){
-    	pauseSlides();
-    	pauseSound();
-    	$('body').css('background-color', 'black');
-    });
-    v.addEventListener('ended',function(){
-    	nextSlide();
-    	resumeSound();
-    	$('body').css('background-color', original_bg_color);
-    });
+      var v = document.getElementById("video{$id}");
+      var original_bg_color = $('body').css('background-color');
+      v.addEventListener('click', function() {
+        if (v.paused) {
+          v.play();
+        } else {
+          v.pause();
+        }
+      })
+      v.addEventListener('canplay', function(){
+        pauseSlides();
+        pauseSound();
+        $('body').css('background-color', 'black');
+      });
+      v.addEventListener('ended',function(){
+        nextSlide();
+        resumeSound();
+        $('body').css('background-color', original_bg_color);
+      });
     </script>
 EOD;
 

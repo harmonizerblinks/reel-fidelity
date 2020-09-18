@@ -2,6 +2,8 @@ $(document).ready(function() {
 // var slidesId = $("#slides");
 // alert(slidesId.attr('data-cycle-timeout'));
 
+    // resumeSound();
+
     $('.slider-toc').slideUp();
     $('.intro').slideUp().slideDown().delay(5000).slideUp();
 

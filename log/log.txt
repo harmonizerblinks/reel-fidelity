@@ -27058,4 +27058,809 @@ Time: 2015-04-21 15:04:00
 User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
 URL: /reel-fidelity/ 
 
+Time: 2020-09-17 16:09:25 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 16:09:58 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 16:09:28 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 16:09:17 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 16:09:08 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 16:09:16 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 16:09:49 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 17:09:00 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; U; Android 8.1.0; itel S33 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.110 Mobile Safari/537.36 OPR/47.2.2254.147957 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 17:09:21 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; U; Android 8.1.0; itel S33 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.110 Mobile Safari/537.36 OPR/47.2.2254.147957 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 17:09:36 
+IP: ::1 
+User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.101 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 17:09:58 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 18:09:33 
+IP: ::1 
+User Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/85.0.4183.109 Mobile/15E148 Safari/604.1 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 18:09:51 
+IP: ::1 
+User Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/85.0.4183.109 Mobile/15E148 Safari/604.1 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 18:09:06 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 19:09:09 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 19:09:13 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 19:09:15 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 19:09:17 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 19:09:21 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 19:09:24 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 19:09:39 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 19:09:43 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; U; Android 8.1.0; itel S33 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.110 Mobile Safari/537.36 OPR/47.2.2254.147957 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 19:09:11 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 19:09:32 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; U; Android 8.1.0; itel S33 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.110 Mobile Safari/537.36 OPR/47.2.2254.147957 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 19:09:17 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 19:09:36 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; U; Android 8.1.0; itel S33 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.110 Mobile Safari/537.36 OPR/47.2.2254.147957 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 19:09:42 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 19:09:04 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 19:09:34 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 19:09:52 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Mobile Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:21 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:15 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:43 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:49 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:06 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:18 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:37 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:53 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:15 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:58 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:16 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:30 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:34 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:35 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:37 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:38 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:40 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:15 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:03 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:20 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Mobile Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:10 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:51 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:45 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:35 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:25 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:30 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:36 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:42 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:58 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:03 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:15 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:26 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:38 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:48 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:54 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:06 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:16 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 20:09:24 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 21:09:09 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 21:09:50 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 21:09:28 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 21:09:31 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 21:09:11 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; U; Android 8.1.0; itel S33 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.110 Mobile Safari/537.36 OPR/47.2.2254.147957 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 21:09:51 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 21:09:10 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 21:09:14 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 21:09:36 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 21:09:30 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 21:09:42 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 21:09:08 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 21:09:06 
+IP: ::1 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 21:09:22 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 21:09:25 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 21:09:28 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; U; Android 8.1.0; itel S33 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.110 Mobile Safari/537.36 OPR/47.2.2254.147957 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 21:09:57 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; U; Android 8.1.0; itel S33 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.110 Mobile Safari/537.36 OPR/47.2.2254.147957 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 21:09:18 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 21:09:23 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 21:09:28 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 21:09:34 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 21:09:36 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 21:09:39 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 21:09:41 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 21:09:41 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 21:09:41 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 21:09:22 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 21:09:40 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; U; Android 8.1.0; itel S33 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.110 Mobile Safari/537.36 OPR/47.2.2254.147957 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 21:09:11 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; U; Android 8.1.0; itel S33 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.110 Mobile Safari/537.36 OPR/47.2.2254.147957 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 21:09:28 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; U; Android 8.1.0; itel S33 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.110 Mobile Safari/537.36 OPR/47.2.2254.147957 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 21:09:58 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; U; Android 8.1.0; itel S33 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.110 Mobile Safari/537.36 OPR/47.2.2254.147957 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 21:09:43 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 21:09:45 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 21:09:47 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; U; Android 8.1.0; itel S33 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.110 Mobile Safari/537.36 OPR/47.2.2254.147957 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 21:09:58 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 22:09:13 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 22:09:17 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:24 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:27 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:32 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:37 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:41 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:44 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:48 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:52 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:58 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:03 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:16 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:19 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:25 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:27 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:30 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:33 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:38 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:50 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:54 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:02 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:04 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:08 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:14 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:21 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:27 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:32 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:41 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:46 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:55 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:21 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:24 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:27 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:29 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:35 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:39 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:47 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:50 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:53 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:57 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:00 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:49 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:52 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:54 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:02 
+IP: ::1 
+User Agent: Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/56.0.2924.0 TV Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-17 23:09:24 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-18 00:09:04 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Mobile Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-18 00:09:26 
+IP: ::1 
+User Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Mobile Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-18 00:09:29 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-18 01:09:34 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-18 01:09:38 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-18 02:09:42 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-18 03:09:45 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-18 04:09:54 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-18 04:09:57 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-18 05:09:00 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
+Time: 2020-09-18 06:09:02 
+IP: ::1 
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 
+URL: /reel-fidelity/ 
+
 
